@@ -1,0 +1,2 @@
+pycoingecko
+py3cw
